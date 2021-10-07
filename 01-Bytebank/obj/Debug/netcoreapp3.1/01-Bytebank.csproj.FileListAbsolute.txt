@@ -1,0 +1,13 @@
+C:\Users\lucas\Desktop\C# - POO\Bytebank\01-Bytebank\bin\Debug\netcoreapp3.1\01-Bytebank.exe
+C:\Users\lucas\Desktop\C# - POO\Bytebank\01-Bytebank\bin\Debug\netcoreapp3.1\01-Bytebank.deps.json
+C:\Users\lucas\Desktop\C# - POO\Bytebank\01-Bytebank\bin\Debug\netcoreapp3.1\01-Bytebank.runtimeconfig.json
+C:\Users\lucas\Desktop\C# - POO\Bytebank\01-Bytebank\bin\Debug\netcoreapp3.1\01-Bytebank.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\C# - POO\Bytebank\01-Bytebank\bin\Debug\netcoreapp3.1\01-Bytebank.dll
+C:\Users\lucas\Desktop\C# - POO\Bytebank\01-Bytebank\bin\Debug\netcoreapp3.1\01-Bytebank.pdb
+C:\Users\lucas\Desktop\C# - POO\Bytebank\01-Bytebank\obj\Debug\netcoreapp3.1\01-Bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C# - POO\Bytebank\01-Bytebank\obj\Debug\netcoreapp3.1\01-Bytebank.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C# - POO\Bytebank\01-Bytebank\obj\Debug\netcoreapp3.1\01-Bytebank.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C# - POO\Bytebank\01-Bytebank\obj\Debug\netcoreapp3.1\01-Bytebank.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C# - POO\Bytebank\01-Bytebank\obj\Debug\netcoreapp3.1\01-Bytebank.dll
+C:\Users\lucas\Desktop\C# - POO\Bytebank\01-Bytebank\obj\Debug\netcoreapp3.1\01-Bytebank.pdb
+C:\Users\lucas\Desktop\C# - POO\Bytebank\01-Bytebank\obj\Debug\netcoreapp3.1\01-Bytebank.genruntimeconfig.cache

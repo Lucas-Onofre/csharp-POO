@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nYU3s7UL86WIOD/pj/7OZ3ekfyMehUCiAcAn2kF8MrY90p7mz948EhoQy7Gl7g/T7nzUj7D47ILIOe+SAUA/5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\Desktop\\C# - POO\\Bytebank\\01-Bytebank\\01-Bytebank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}
